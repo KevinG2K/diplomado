@@ -32,7 +32,7 @@
         <div class="content" >
             <div class="text" style="display: inline-block">
                 <h1 class="aws2" style="overflow: hidden; font-size: 70px ">
-               Bienvenido!
+               Bienvenido!!
                 </h1>                
              </div>
              <br>
